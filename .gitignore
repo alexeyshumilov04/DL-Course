@@ -8,3 +8,5 @@ venv/
 homeworks/yearpredictionmsd.zip
 lectures
 .MNIST/
+*.tar.gz
+*.zip

@@ -7,3 +7,4 @@ venv/
 
 homeworks/yearpredictionmsd.zip
 lectures
+.MNIST/

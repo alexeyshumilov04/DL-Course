@@ -10,3 +10,4 @@ lectures
 .MNIST/
 *.tar.gz
 *.zip
+seminars/04. Lightning/data/

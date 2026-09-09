@@ -1,13 +1,22 @@
+# Python
 __pycache__/
 *.pyc
+
+# Environment
 .env
 venv/
+
+# IDEs
 .idea/
 .vscode/
 
-homeworks/yearpredictionmsd.zip
+# Data files
+homeworks/hw_01/yearpredictionmsd.zip
+homeworks/hw_02/data
 lectures
 .MNIST/
 *.tar.gz
 *.zip
 seminars/04. Lightning/data/
+*.csv
+homeworks/tasks
